@@ -25,7 +25,7 @@ VIRTUAL-RUNTIME_initscripts = ""
 #    - press the "COPY TO CLIPBOARD"
 #    - assign content of clipboard to MENDER_TENANT_TOKEN
 #
-#MENDER_SERVER_URL = "https://hosted.mender.io"
+MENDER_SERVER_URL = "https://mender.surovtsev-as.ru"
 #MENDER_TENANT_TOKEN = ""
 
 # Build for Mender demo server
