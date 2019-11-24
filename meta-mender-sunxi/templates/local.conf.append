@@ -1,7 +1,7 @@
 
 # Appended fragment from meta-mender-community/meta-mender-sunxi/templates
 
-MACHINE ?= "orange-pi-pc-plus"
+MACHINE ?= "orange-pi-zero"
 
 IMAGE_INSTALL_append = " kernel-image kernel-devicetree"
 
